@@ -1,0 +1,32 @@
+﻿.hyper
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    font-style: normal;
+    font-variant: normal;
+    color: #FF0000;
+    background-color: #000000;
+    border: thin dotted #008000;
+    padding: 5px;
+}
+
+.wepiuj
+{
+    font-family: 'Times New Roman';
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: normal;
+    color: #000080;
+    background-color: #008000;
+    border: thin dotted #000000;
+}
+.dqwhu
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    color: #FF0000;
+    background-color: #000000;
+}
