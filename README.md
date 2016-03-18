@@ -1,2 +1,3 @@
 # Database-As-A-Service-DAAS
-A Cloud Platform where users can create and manage databases and access it from anywhere using the power of Cloud.
+A Platform where users can Create and Manage databases and access it anytime, anywhere from any device.
+
